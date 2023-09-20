@@ -1,0 +1,130 @@
+
+body
+{
+   margin: 0;
+   padding: 0;
+   font-size: 20px;
+   background:#161633;
+   color: #fff;
+}
+.logo
+{
+  height: 70px;
+  width: auto;
+  float: left;
+  
+}
+.logo2
+{
+  height: 70px;
+  width: auto;
+  
+}
+header
+{
+	padding: 10px 30px;
+	background-color:transparent;
+  
+}
+
+@media only screen and (max-width: 1180px)
+{
+  
+ .logo
+{
+  height: 70px;
+  width: auto;
+  float: left;
+  
+}
+.logo2
+{
+  height: 70px;
+  width: auto;
+  
+}
+  
+}
+
+@media only screen and (max-width: 998px)
+{
+ .logo
+{
+  height: 70px;
+  width: auto;
+  float: left;
+  
+}
+.logo2
+{
+  height: 70px;
+  width: auto;
+  
+}
+}
+
+@media only screen and (max-width: 768px)
+{
+   .logo
+{
+  height: 40px;
+  width: auto;
+  float: left;
+
+  
+}
+.logo2
+{
+  height: 40px;
+  width: auto;
+  margin-top: -35%;
+  float: right;
+
+}
+ 
+
+}
+
+@media only screen and (max-width: 480px)
+{
+
+ .logo
+{
+  height: 40px;
+  width: auto;
+  float: left;
+
+  
+}
+.logo2
+{
+  height: 40px;
+  width: auto;
+  margin-top: -38%;
+  float: right;
+
+}
+ 
+}
+
+@media only screen and (max-width: 320px)
+{
+  
+  .logo
+{
+  height: 40px;
+  width: auto;
+  float: left;
+
+  
+}
+.logo2
+{
+  height: 40px;
+  width: auto;
+  margin-top: -38%;
+  float: right;
+
+}
+ 
+ }
